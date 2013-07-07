@@ -1,0 +1,9 @@
+name: LogFilter
+main: cc.nsg.bukkit.LogFilter.LogFilter
+version: 1.0
+commands:
+  reloadlogfilter:
+    description: Reload the filters
+    usage: /reloadlogfilter
+    permission: logfilter.reload
+    permission-message: You have not the needed permission for this command.

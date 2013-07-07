@@ -1,0 +1,4 @@
+logfilter: false
+plugins:
+  Foo:
+    - string
